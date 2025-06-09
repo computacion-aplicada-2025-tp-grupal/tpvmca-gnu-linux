@@ -1,1 +1,9 @@
 # tpvmca-gnu-linux
+
+## Integrantes
+
+- FACUNDO FAJARDO PUENTES  
+- SOFIA GOLDHAR SCHAIN  
+- JULIO LAROSA  
+- MARCOS OTALVARES  
+- JOAQUIN RODRIGUEZ  
